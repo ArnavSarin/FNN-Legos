@@ -1,0 +1,2 @@
+# FFNeuralNetwork_LEGOS
+Designed a FeedForward Neural Network from ground up without use of preexisting libraries such as PyTorch, Keras, Tensor Flow etc.  This included the development of a Feedforward function use to run through training data and test new data sets as well as a Backpropogation algorithm to adjust weights and biases for better performance. Optimized Network to have an accuracy of 80% and rising when identifying 10 unique lego blocks. 
